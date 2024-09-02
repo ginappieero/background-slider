@@ -55,7 +55,9 @@ body::before {
 }
 
 .arrow {
-  position: fixed;
+  position: /////////
+///////
+fixed;
   background-color: transparent;
   padding: 20px;
   font-size: 30px;
